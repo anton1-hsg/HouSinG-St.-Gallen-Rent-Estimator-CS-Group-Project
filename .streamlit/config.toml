@@ -1,0 +1,11 @@
+# Project-wide light theme — SHSG artistic direction
+[theme]
+base = "light"
+primaryColor = "#1a5c2a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f5f2"
+textColor = "#1a1a1a"
+font = "sans serif"
+
+[server]
+headless = true
